@@ -1,0 +1,6 @@
+https://pandas.pydata.org/
+
+https://numpy.org/
+
+https://docs.python.org/pt-br/3/library/
+
